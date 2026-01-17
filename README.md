@@ -5,7 +5,7 @@ conda activate sumo_python
 pip intall -r requirement.txt
 cd sumo_python
 python main.py
-
+실행된 sumo의 좌측 상단에 있는 화살표 버튼을 눌러 시뮬레이션 시작
 
 main.py 의 218, 219 line을 하나씩 주석처리하면서 고정 신호 주기와 mappo 모델의 변동 신호 주기의 결과를 알 수 있습니다.
 
