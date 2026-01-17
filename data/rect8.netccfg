@@ -1,0 +1,15 @@
+<configuration>
+    <input>
+        <node-files value="rect8.nod.xml"/>
+        <edge-files value="rect8.edg.xml"/>
+        <connection-files value="rect8.con.xml"/>
+    </input>
+    <output>
+        <output-file value="rect8.net.xml"/>
+    </output>
+    <processing>
+        <no-turnarounds value="true"/>
+        <junctions.join value="true"/>
+        <tls.discard-simple value="false"/>
+    </processing>
+</configuration>

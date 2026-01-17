@@ -1,0 +1,24 @@
+Warning: Environment variable SUMO_HOME is not set, schema resolution will use slow website lookups.
+Loading net-file from 'C:\Users\delphi\testreports\sumo\git\tools\game\A10KW/osm.net.xml' ... done (141ms).
+Warning: Missing yellow phase in tlLogic 'GS_cluster_1643085231_21432440_32500280_32500282', program '0' for tl-index 4 when switching to phase 0
+Warning: Missing green phase in tlLogic 'GS_cluster_1643085231_21432440_32500280_32500282', program '0' for tl-index 0
+Warning: Missing yellow phase in tlLogic 'GS_cluster_1643085231_21432440_32500280_32500282', program '1' for tl-index 6 when switching to phase 0
+Warning: Missing green phase in tlLogic 'GS_cluster_1643085231_21432440_32500280_32500282', program '1' for tl-index 0
+Warning: Missing yellow phase in tlLogic 'GS_cluster_1643085231_21432440_32500280_32500282', program '2' for tl-index 0 when switching to phase 0
+Warning: Missing green phase in tlLogic 'GS_cluster_1643085231_21432440_32500280_32500282', program '2' for tl-index 5
+Warning: Missing yellow phase in tlLogic 'GS_cluster_1643085231_21432440_32500280_32500282', program '3' for tl-index 8 when switching to phase 0
+Warning: Missing green phase in tlLogic 'GS_cluster_1643085231_21432440_32500280_32500282', program '3' for tl-index 0
+Warning: Missing yellow phase in tlLogic 'GS_cluster_21432412_32500298', program '0' for tl-index 1 when switching to phase 0
+Warning: Missing green phase in tlLogic 'GS_cluster_21432412_32500298', program '0' for tl-index 5
+Warning: Missing yellow phase in tlLogic 'GS_cluster_21432412_32500298', program '1' for tl-index 5 when switching to phase 0
+Warning: Missing green phase in tlLogic 'GS_cluster_21432412_32500298', program '1' for tl-index 0
+Warning: Missing yellow phase in tlLogic 'GS_cluster_21432412_32500298', program '2' for tl-index 0 when switching to phase 0
+Warning: Missing green phase in tlLogic 'GS_cluster_21432412_32500298', program '2' for tl-index 1
+Loading additional-files from 'C:\Users\delphi\testreports\sumo\git\tools\game\input_additional.add.xml' ... done (33ms).
+Loading additional-files from 'C:\Users\delphi\testreports\sumo\git\tools\game\A10KW/osm.poly.xml' ... 
+Error: unable to open file 'https://sumo.dlr.de/xsd/additional_file.xsd'
+ In file 'C:\Users\delphi\testreports\sumo\git\tools\game\A10KW/osm.poly.xml'
+ At line/column 1/0.
+
+Loading of additional-files failed.
+Quitting (on error).

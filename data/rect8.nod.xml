@@ -1,0 +1,17 @@
+<nodes>
+    <!-- Signalized intersections (spacing: 120m) -->
+    <node id="J1" x="0"   y="120" type="traffic_light"/>
+    <node id="J2" x="120" y="120" type="traffic_light"/>
+    <node id="J3" x="120" y="0"   type="traffic_light"/>
+    <node id="J4" x="0"   y="0"   type="traffic_light"/>
+
+    <!-- Boundary nodes (distance to nearest intersection: 80m) -->
+    <node id="1" x="-80" y="120" type="priority"/>
+    <node id="2" x="0"   y="200" type="priority"/>
+    <node id="3" x="120" y="200" type="priority"/>
+    <node id="4" x="200" y="120" type="priority"/>
+    <node id="5" x="200" y="0"   type="priority"/>
+    <node id="6" x="120" y="-80" type="priority"/>
+    <node id="7" x="0"   y="-80" type="priority"/>
+    <node id="8" x="-80" y="0"   type="priority"/>
+</nodes>
